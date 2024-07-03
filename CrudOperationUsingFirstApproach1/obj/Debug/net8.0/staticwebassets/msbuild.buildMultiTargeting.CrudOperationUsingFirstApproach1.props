@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudOperationUsingFirstApproach1.props" />
+</Project>
