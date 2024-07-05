@@ -250,3 +250,4 @@ C:\Users\saifu\source\repos\CrudOperationUsingFirstApproach1\CrudOperationUsingF
 C:\Users\saifu\source\repos\CrudOperationUsingFirstApproach1\CrudOperationUsingFirstApproach1\obj\Debug\net8.0\CrudOperationUsingFirstApproach1.pdb
 C:\Users\saifu\source\repos\CrudOperationUsingFirstApproach1\CrudOperationUsingFirstApproach1\obj\Debug\net8.0\CrudOperationUsingFirstApproach1.genruntimeconfig.cache
 C:\Users\saifu\source\repos\CrudOperationUsingFirstApproach1\CrudOperationUsingFirstApproach1\obj\Debug\net8.0\ref\CrudOperationUsingFirstApproach1.dll
+C:\Users\saifu\source\repos\CrudOperationUsingFirstApproach1\CrudOperationUsingFirstApproach1\obj\Debug\net8.0\CrudOperationUsingFirstApproach1.sourcelink.json

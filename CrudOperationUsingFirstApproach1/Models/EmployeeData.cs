@@ -12,5 +12,7 @@ namespace CrudOperationUsingFirstApproach1.Models
 
         public int Salary { get; set; }
         public string Email { get; set; }
+
+        public int age { get; set; }
     }
 }

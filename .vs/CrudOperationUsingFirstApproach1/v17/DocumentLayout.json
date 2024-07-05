@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\migrations\\20240703110842_secondmigraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\migrations\\20240703110842_secondmigraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\controllers\\employeedatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\controllers\\employeedatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\migrations\\20240703110842_secondmigraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\migrations\\20240703110842_secondmigraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\models\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\models\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|c:\\users\\saifu\\source\\repos\\crudoperationusingfirstapproach1\\crudoperationusingfirstapproach1\\migrations\\20240704054653_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22017098-60DB-46E7-A953-1326BB415B43}|CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1.csproj|solutionrelative:crudoperationusingfirstapproach1\\migrations\\20240704054653_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +42,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
-              "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T12:05:00.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Program.cs",
@@ -63,12 +50,11 @@
               "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Program.cs",
               "ViewState": "AQIAAAwAAAAAMzMzMzMrwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:16:09.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T11:16:09.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20240703110842_SecondMigraton.cs",
               "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\20240703110842_SecondMigraton.cs",
               "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Migrations\\20240703110842_SecondMigraton.cs",
@@ -76,18 +62,17 @@
               "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Migrations\\20240703110842_SecondMigraton.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:08:43.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T11:08:43.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\appsettings.json",
               "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\appsettings.json",
               "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\appsettings.json",
               "RelativeToolTip": "CrudOperationUsingFirstApproach1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-03T11:04:40.725Z",
               "EditorCaption": ""
@@ -102,18 +87,17 @@
               "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAUAAADAMjMzMzMrwBkAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T11:03:43.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T11:03:43.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EmployeeDatasController.cs",
               "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Controllers\\EmployeeDatasController.cs",
               "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Controllers\\EmployeeDatasController.cs",
               "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Controllers\\EmployeeDatasController.cs",
               "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Controllers\\EmployeeDatasController.cs",
-              "ViewState": "AQIAACoAAADAYmZmZmYiwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T11:03:15.993Z",
               "EditorCaption": ""
@@ -121,15 +105,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployeeData.cs",
-              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Models\\EmployeeData.cs",
-              "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Models\\EmployeeData.cs",
-              "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Models\\EmployeeData.cs",
-              "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Models\\EmployeeData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Title": "20240704054653_thirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\20240704054653_thirdMigration.cs",
+              "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Migrations\\20240704054653_thirdMigration.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\20240704054653_thirdMigration.cs",
+              "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Migrations\\20240704054653_thirdMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:56:17.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T05:46:53.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\CrudOperationUsingFirstApproach1\\CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeToolTip": "CrudOperationUsingFirstApproach1\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:05:00.528Z"
             }
           ]
         }
